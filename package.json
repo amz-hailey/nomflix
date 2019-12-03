@@ -26,7 +26,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://amz-hailey.github.io/nomflix",
+  "homepage": "https://vigilant-benz-60b837.netlify.com",
   "browserslist": {
     "production": [
       ">0.2%",
